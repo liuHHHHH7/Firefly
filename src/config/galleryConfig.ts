@@ -24,7 +24,7 @@ export const galleryConfig: GalleryConfig = {
 			// date: "2026-01-01",
 			// 标签: ["崩坏星穹铁道", "流萤"],
 		//},
-		/这是一个加密相册示例
+		//这是一个加密相册示例
 		// {
 		// 	id: "encrypted-test",
 		// 	name: "加密相册示例",
